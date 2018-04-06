@@ -8,4 +8,5 @@
 
 
 ![](https://github.com/svetlanasima/hw6/blob/master/question.PNG)
+
 ![](https://github.com/svetlanasima/hw6/blob/master/sketch.PNG)
