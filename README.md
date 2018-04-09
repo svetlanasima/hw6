@@ -20,3 +20,6 @@
 *Бонусное задание*
 
 ![](https://github.com/svetlanasima/hw6/blob/master/7.PNG)
+
+В Google Ngram Viewer мы наблюдаем рост частотности слова 'cable'.
+
