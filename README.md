@@ -14,3 +14,5 @@
 ![](https://github.com/svetlanasima/hw6/blob/master/question.PNG)
 
 ![](https://github.com/svetlanasima/hw6/blob/master/sketch.PNG)
+
+Чтобы построить график, я решила выбрать два синонима 'refuse' и 'deny'. Из полученных результатов можно сделать вывод, что самыми частыми дополнениями, употребляемыми с данными глаголами являются 'visa' и 'access'. Также можно отметить, что дополнение 'offer' уоптребляется только с глаголом 'refuse', а глагол 'deny' только с дополнением 'allegation'.
